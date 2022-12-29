@@ -34,5 +34,3 @@
 #project files
 *.project
 *.cproject
-/.settings/
-/Debug/
